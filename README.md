@@ -40,10 +40,10 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 ## Acknowledgements
 Give credit here.
 
-This is acheived in collaboration with Onkar Daeker <onkardarekar19@gmail.com>
+This is acheived in collaboration with Puneeth Kumar Voodharla Sreerami.
 
 ## Contact
-Created by [@pvoodhar] - feel free to contact me!
+Created by [@onkar1920][@pvoodhar] - feel free to contact me!
 
 
 <!-- Optional -->
