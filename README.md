@@ -50,7 +50,13 @@ term, loan_status, Purpose, grade, home ownership
 - Members with low Debt to Income Ratio and high annual income have less tendency to get charged off
 - Members with house ownership status as "Others" tend to default the rate by 18%.
 - Whereas, Members in category of Mortgage and own house has less tendendency to be defaulters compared to other categories.
-- 
+
+
+#### Outcomes of Bi Variate Analysis
+- When Loan Amount/interest rate/debt to income ration/employment Lenth increases then there is risk of getting defaulters
+- Members with low Debt to Income Ratio and high annual income have less tendency to get charged off
+- Members with house ownership status as "Others" tend to default the rate by 18%.
+- Whereas, Members in category of Mortgage and own house has less tendendency to be defaulters compared to other categories.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
